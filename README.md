@@ -8,7 +8,7 @@ LEGEND README.IML
  public source. This client was made public for the reason   
  of making it easier for newfags to get a client for B1.7.3    
  since salc1 made a review on the anarchy server             
- "2Beta2t.net:27015".                                        
+ "2Beta2t.net:27015 (2beta2t.net)".                                        
  
  NOTE : YES WE KNOW THIS IS A PASTE COPE ABOUT IT
  
